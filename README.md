@@ -8,7 +8,7 @@ A full-stack decentralized application built on Ethereum Sepolia. Project creato
 
 | Resource | URL |
 |---|---|
-| **Vercel Frontend** | *(add after deployment)* |
+| **Vercel Frontend** | https://nexus-zeta-lemon.vercel.app/ |
 | **Sepolia Contract** | `0x85d043Fe588A3c85F9f21B2119939D71cCd4932b` |
 | **CrowdfundingEscrow — Etherscan** | https://sepolia.etherscan.io/address/0x85d043Fe588A3c85F9f21B2119939D71cCd4932b#code |
 | **BackerBadge NFT — Etherscan** | https://sepolia.etherscan.io/address/0xF15BEDd24ce307DD27156AA00682D90222d4fEd6#code |
